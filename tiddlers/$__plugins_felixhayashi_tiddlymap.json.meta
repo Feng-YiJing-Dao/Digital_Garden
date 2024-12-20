@@ -4,6 +4,8 @@ dependents: $:/plugins/felixhayashi/vis
 depends: $:/plugins/felixhayashi/vis
 description: TiddlyMap – Map drawing and topic visualization for your wiki
 list: readme license
+modified: 20241220113940633
+modifier: 風
 name: TiddlyMap
 plugin-type: plugin
 released: Mon, 22 Jul 2024 16:29:35 GMT
