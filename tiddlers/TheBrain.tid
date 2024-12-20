@@ -1,6 +1,7 @@
 caption: TheBrain
 tags: $:/tags/SideBar
 title: TheBrain
+tmap.id: 854a468c-4e17-4c16-ae4b-e730c7bdbe37
 type: text/vnd.tiddlywiki
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $height="100%" />
